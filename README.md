@@ -1,2 +1,2 @@
-# Bootstrap-Portfolio
-A responsive website that uses Bootstrap to adapted to changes in screen size
+# Basic-Portfolio
+A basic personal portfolio
